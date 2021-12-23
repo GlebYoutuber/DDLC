@@ -3,3 +3,5 @@ Doki Doki Literature Club is a computer game in the genre of visual novel, devel
 
 ## Donation
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/K3K77259H)
+
+> Bitcoin: bc1qr2d09dpgjdq3zwl8tkgf7prffg404c9glwgxcm
